@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1606048535 source:/home/fagr/Desktop/trial/main.c
+	<stdlib.h>
+	<unistd.h>
+	<sys/wait.h>
+	<string.h>
+	<stdio.h>
+	<signal.h>
+	<sys/types.h>
+
+1606048535 source:/home/fagr/Desktop/Bash Shell/main.c
+	<stdlib.h>
+	<unistd.h>
+	<sys/wait.h>
+	<string.h>
+	<stdio.h>
+	<signal.h>
+	<sys/types.h>
+
